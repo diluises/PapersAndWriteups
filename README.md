@@ -1,7 +1,7 @@
-# PapersAndWriteups
+## PapersAndWriteups
 Published papers, draft papers, writeups, talks.
 
-## Search for Sterile Neutrinos
+# List 
 
 https://github.com/diluises/PapersAndWriteups/issues/1
 
